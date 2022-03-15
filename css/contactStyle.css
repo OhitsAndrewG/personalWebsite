@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    margin:0%;
+    /* text-align: center; */
+}
+.text {
+    color: #25ff00;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: .06em;
+    font-family: 'Source Code Pro', monospace;
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+    padding: 30px;
+    list-style-type: none;
+    
+}
+ul{
+    padding: 0;
+    text-align: center;
+    margin: 16px;
+    
+}
